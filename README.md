@@ -22,7 +22,7 @@ I'm passionate about crafting modern ✨, accessible ♿, and responsive 📱 us
 <br><br>
 
 <div align="center" display="flex">
-<img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathangomez-dev&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="jonathangomez-dev" />
+<img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=devjonathangomez&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="jonathangomez-dev" />
 
-<img align="" src="https://github-readme-stats.vercel.app/api?username=jonathangomez-dev&show_icons=true&locale=en&theme=midnight-purple" alt="jonathangomez-dev" />
+<img align="" src="https://github-readme-stats.vercel.app/api?username=devjonathangomez&show_icons=true&locale=en&theme=midnight-purple" alt="jonathangomez-dev" />
 </div>
